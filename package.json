@@ -1,0 +1,10 @@
+{
+  "name": "jev-router",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Jev-powered support ticket router — parallel structured decisions",
+  "scripts": {
+    "start": "node index.mjs",
+    "demo": "node index.mjs --demo"
+  }
+}
